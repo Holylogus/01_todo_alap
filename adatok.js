@@ -27,3 +27,5 @@ export const TODOLIST2 = [
     },
     { tevekenyseg: "kész dokumentáció", hatarido: "2024.04.15" }
 ];
+
+export default TODOLIST2
